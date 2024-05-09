@@ -1,4 +1,15 @@
+## 💫 About Me:
+🔭 I’m currently working on: Developing automation tools for web, mobile, and desktop applications.
 
+👯 I’m looking to collaborate on: Exciting projects involving Python, machine learning, and web development.
+
+🤝 I’m looking for help with: Enhancing my skills in deep learning and expanding my knowledge of advanced Python libraries.
+
+🌱 I’m currently learning: Advanced techniques in deep learning and exploring new frontiers in web development.
+
+💬 Ask me about: My experience in building automation bots, solving complex problems with AI, and creating stunning websites.
+
+⚡ Fun fact: I enjoy experimenting with new programming languages and technologies in my free time to stay updated with the latest trends in tech.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100009201062034) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafay.jiwani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafay-asif-jiwani) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rafayjiwani55) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RafayAsifjiwani) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rakentech) 
 
